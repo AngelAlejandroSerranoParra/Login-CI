@@ -10,7 +10,9 @@
     
 
 <body>
-    <p>Hola Mundo</p>    
+    <h1><?php echo $texto; ?></h1>
+    <p>Hola DMundo</p>    
+
 </body>
 </body>
 </html>
